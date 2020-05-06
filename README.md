@@ -43,3 +43,13 @@ Will make the video `mylapse.mp4` from folder `mylapse`.
 It will automatically handle partially grey images (capture issues) and
 remove black pictures. You may use the `--start` and `--end` options to make
 a smaller clip.
+
+
+## Example
+
+Setup:
+
+![Setup](./setup.jpg)
+
+Result:
+[![Result](https://img.youtube.com/vi/UEL1ND1WBec /0.jpg)](https://www.youtube.com/watch?v=UEL1ND1WBec )
